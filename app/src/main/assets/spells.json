@@ -1,0 +1,46 @@
+"id": "barrier",
+"name": "Barrier",
+"cooldown": 180,
+"key": "21",
+
+"id": "boost",
+"name": "Cleanse",
+"cooldown": 210,
+"key": "1",
+
+"name": "Ignite",
+"cooldown": 210,
+"key": "14",
+
+
+"name": "Exhaust",
+"cooldown": 210,
+"key": "3",
+
+
+"name": "Flash",
+"cooldown": 300,
+"key": "4",
+
+
+"name": "Ghost",
+"cooldown": 180,
+"key": "6",
+
+"name": "Heal",
+"cooldown": 270,
+"key": "7",
+
+"name": "Clarity",
+"cooldown": 240,
+"key": "13",
+
+
+"name": "Smite",
+"cooldown": 15,
+"key": "11",
+
+
+"name": "Teleport",
+"cooldown": 300,
+"key": "12",
